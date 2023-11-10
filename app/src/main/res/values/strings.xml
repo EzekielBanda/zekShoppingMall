@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Zek Shopping Mall</string>
+    <string name="make_shopping_at_users_finger">Make Shopping at Users Finger</string>
+    <string name="delivary">Delivary</string>
+    <string name="delivery" />
+    <string name="shopping">Shopping</string>
+    <string name="next" />
+    <string name="skip" />
+    <string name="all">All</string>
+    <string name="reliable_convinient_shopping"><![CDATA[Reliable & Convinient Shopping]]></string>
+    <string name="reliable_convenient_shopping" />
+    <string name="image">Image</string>
+    <string name="save_money_and_time">Save Money And Time</string>
+    <string name="online_shop">Online Shop</string>
+    <string name="safe_shopping">Safe Shopping</string>
+    <string name="shop">Shop</string>
+    <string name="more_variety">More Variety</string>
+    <string name="start" />
 </resources>
