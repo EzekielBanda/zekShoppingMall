@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59543208496",
+    "project_id": "zek-shopping-mall",
+    "storage_bucket": "zek-shopping-mall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59543208496:android:ff0c6a42fc52395776a3f5",
+        "android_client_info": {
+          "package_name": "com.unitech.zekshoppingmall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYtNMg1zOr_hRfbt-fe33JcZMPpD3XoFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
